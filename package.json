@@ -1,0 +1,9 @@
+{
+  "name": "simpleSpamBot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^13.1.0"
+  }
+}
